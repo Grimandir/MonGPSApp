@@ -1,20 +1,48 @@
-# Node modules
+# ✅ Node & dependencies
 node_modules/
+package-lock.json
+yarn.lock
 
-# Logs
-*.log
-npm-debug.log*
+# ✅ Expo
+.expo/
+.expo-shared/
+*.expo
 
-# React Native
-ios/Pods/
-android/.gradle/
-android/app/build/
-android/build/
-*.keystore
-
-# OS
+# ✅ MacOS / Windows / Linux
 .DS_Store
 Thumbs.db
 
-# Env files
+# ✅ Android / iOS native builds
+android/
+ios/
+*.keystore
+
+# ✅ Logs, debug, cache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+*.tmp
+*.swp
 .env
+.env.local
+
+# ✅ IDE & editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ✅ Build
+build/
+dist/
+web-build/
+
+# ✅ Test / coverage
+coverage/
+jest/
+
+# ✅ Images generated or temporary
+*.png~
+*.jpg~
+*.svg~

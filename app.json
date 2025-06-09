@@ -17,6 +17,10 @@
       "assetBundlePatterns": [
         "**/*"
       ],
+      "permissions": [
+        "ACCESS_FINE_LOCATION", "ACCESS_COARSE_LOCATION", "FOREGROUND_SERVICE"
+      ],
+
       "ios": {
         "supportsTablet": true,
         "bundleIdentifier": "com.votrenom.mongpsapp"
