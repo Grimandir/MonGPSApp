@@ -1,0 +1,10 @@
+{
+    "language": "fr",
+    "theme": "light",
+    "vehicleType": "sedan",
+    "voice": "fr-FR-Wavenet-D",
+    "volume": 0.8,
+    "nightMode": true,
+    "autoNightMode": true
+  }
+  

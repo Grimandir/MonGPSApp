@@ -1,0 +1,24 @@
+[
+    {
+      "id": "poi_1",
+      "type": "gas_station",
+      "name": "Station Total",
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    },
+    {
+      "id": "poi_2",
+      "type": "shopping_center",
+      "name": "Centre Commercial Les Halles",
+      "latitude": 48.8606,
+      "longitude": 2.3470
+    },
+    {
+      "id": "poi_3",
+      "type": "parking",
+      "name": "Parking République",
+      "latitude": 48.8675,
+      "longitude": 2.3544
+    }
+  ]
+  

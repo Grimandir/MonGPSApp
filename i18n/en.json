@@ -1,0 +1,23 @@
+{
+    "app_title": "Smart GPS",
+    "home": "Home",
+    "start_navigation": "Start Navigation",
+    "favorites": "Favorites",
+    "history": "History",
+    "settings": "Settings",
+    "select_language": "Select Language",
+    "select_vehicle": "Vehicle Type",
+    "navigation_voice": "Navigation Voice",
+    "dark_mode": "Dark Mode",
+    "auto_night_mode": "Auto Night Mode",
+    "volume": "Volume",
+    "delete_history": "Delete History",
+    "delete_favorites": "Delete Favorites",
+    "language_changed": "Language changed",
+    "vehicle_selected": "Vehicle selected",
+    "start": "Start",
+    "end": "End",
+    "route_options": "Route Options",
+    "voice_feedback": "Voice Instructions Enabled"
+  }
+  

@@ -1,0 +1,23 @@
+{
+    "app_title": "Mon GPS Intelligent",
+    "home": "Accueil",
+    "start_navigation": "Démarrer la navigation",
+    "favorites": "Favoris",
+    "history": "Historique",
+    "settings": "Paramètres",
+    "select_language": "Choisir la langue",
+    "select_vehicle": "Type de véhicule",
+    "navigation_voice": "Voix de navigation",
+    "dark_mode": "Mode sombre",
+    "auto_night_mode": "Mode nuit automatique",
+    "volume": "Volume",
+    "delete_history": "Supprimer l'historique",
+    "delete_favorites": "Supprimer les favoris",
+    "language_changed": "Langue changée",
+    "vehicle_selected": "Véhicule sélectionné",
+    "start": "Départ",
+    "end": "Arrivée",
+    "route_options": "Options d’itinéraire",
+    "voice_feedback": "Instructions vocales activées"
+  }
+  

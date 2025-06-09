@@ -1,0 +1,39 @@
+[
+    {
+      "id": "sedan",
+      "label": "Berline",
+      "icon": "car_sedan.png",
+      "color": "#007AFF"
+    },
+    {
+      "id": "coupe",
+      "label": "Coupé",
+      "icon": "car_coupe.png",
+      "color": "#FF9500"
+    },
+    {
+      "id": "suv",
+      "label": "SUV",
+      "icon": "car_suv.png",
+      "color": "#34C759"
+    },
+    {
+      "id": "motorcycle",
+      "label": "Moto",
+      "icon": "moto.png",
+      "color": "#FF2D55"
+    },
+    {
+      "id": "utility",
+      "label": "Utilitaire",
+      "icon": "car_utility.png",
+      "color": "#5856D6"
+    },
+    {
+      "id": "citycar",
+      "label": "Citadine",
+      "icon": "car_citycar.png",
+      "color": "#AF52DE"
+    }
+  ]
+  
