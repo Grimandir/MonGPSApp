@@ -5,6 +5,8 @@ import { SettingsProvider } from './contexts/SettingsContext';
 import { LanguageProvider } from './contexts/LanguageContext';
 import { lightTheme, darkTheme } from './styles/theme';
 import { useColorScheme } from 'react-native';
+import * as Location from 'expo-location';
+
 
 export default function App() {
   const scheme = useColorScheme();
