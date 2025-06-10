@@ -13,7 +13,8 @@ module.exports = function(api) {
               "@services": "./services",
               "@contexts": "./contexts",
               "@utils": "./utils",
-              "@i18n": "./i18n"
+              "@i18n": "./i18n",
+              "@assets": "./assets",
             }
           }
         ]
